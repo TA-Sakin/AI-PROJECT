@@ -102,7 +102,7 @@ write('*******BLOOD BANK******'),
 nl,
 nl,
 bloodtest(_Bloodcheck),
-write('To donate blood you have to be above 16 and weigh at least 110 pounds.'),
+write('To donate blood you have to be above 16, weigh at least 110 pounds and not have donated in 56 days.'),
 nl,
 write('TAKE CARE '),
 undo.
