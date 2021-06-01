@@ -1,4 +1,4 @@
-# This project is done using Prolog programming language.
+# Disease checker and blood bank.
 
 In this project I made a disease checker and blood bank.
 Using this project you can check the symptoms of COVID, MALARIA AND DENGUE and get advice based on the disease.
